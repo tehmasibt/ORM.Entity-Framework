@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ormpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|solutionrelative:ormpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ormpractice\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|solutionrelative:ormpractice\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ormpractice\\dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|solutionrelative:ormpractice\\dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|c:\\users\\user\\onedrive\\\u0130\u015F masas\u0131\\ado.net\\ado.netconnection\\ormpractice\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A967C73-619F-4DE3-87B7-632EE0A6CA12}|ORMPractice\\ORMPractice.csproj|solutionrelative:ormpractice\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "ORMPractice\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\Services\\GroupService.cs",
+              "RelativeToolTip": "ORMPractice\\Services\\GroupService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:42:56.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "ORMPractice\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\Models\\Group.cs",
+              "RelativeToolTip": "ORMPractice\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:19:14.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\DAL\\DataContext.cs",
+              "RelativeDocumentMoniker": "ORMPractice\\DAL\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\DAL\\DataContext.cs",
+              "RelativeToolTip": "ORMPractice\\DAL\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:14:26.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ORMPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0130\u015F masas\u0131\\Ado.NET\\Ado.NETConnection\\ORMPractice\\Program.cs",
+              "RelativeToolTip": "ORMPractice\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:26:14.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
